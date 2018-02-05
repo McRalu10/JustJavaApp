@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">How many coffees would you like?</string>
+    <string name="tip">*Smart tip: For every 3 ordered coffees,\n you\'ll get a free one!*</string>
+    <string name="order">order</string>
+    <string name="price">Order Summary:</string>
+    <string name="initial_price">$5</string>
+    <string name="initial_quantity">1</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    <string name="free_coffees">0</string>
+    <string name="free">free</string>
+    <string name="toppings">toppings</string>
+    <string name="topping1">Whipped cream</string>
+    <string name="topping2">Chocolate</string>
+    <string name="name">Please write your name</string>
+</resources>
